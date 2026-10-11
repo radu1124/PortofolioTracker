@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+
+# Local secrets
+PortofolioWidget/Secrets.swift

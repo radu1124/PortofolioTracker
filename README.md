@@ -1,4 +1,4 @@
-# PortofolioWidget
+# Portofolio Tracker
 
 A SwiftUI iOS app for tracking an investment portfolio: live prices, performance vs. inflation, government bond yields, and long-term projections.
 
